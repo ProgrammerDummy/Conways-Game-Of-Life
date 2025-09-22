@@ -1,1 +1,1 @@
-# Conways-Game-Of-Life
+# Conways-Game-Of-Life by Myung Jae (Matthew) Jeong 
